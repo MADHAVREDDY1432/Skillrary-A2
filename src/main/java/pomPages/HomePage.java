@@ -44,6 +44,16 @@ public class HomePage {
 			categoryLink.click();
 		}
 
+		public void clickcategoryLink() {
+			// TODO Auto-generated method stub
+			
+		}
+
+		public void clickcategoryLink() {
+			// TODO Auto-generated method stub
+			
+		}
+
 			
 		
 

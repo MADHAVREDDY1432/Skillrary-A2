@@ -5,7 +5,7 @@ import java.util.Map;
 import org.testng.asserts.SoftAssert;
 
 import genericUtilities.BaseClass;
-// this script is not commit
+// This script is not  COMMENT
 public class AddCatgoryTest extends BaseClass {
 	public void addcategorytest() {
 		SoftAssert soft=new SoftAssert();
